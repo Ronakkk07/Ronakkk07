@@ -10,40 +10,23 @@
 </p>
 
 ```
-****########%%%%%%##########################   ronak@github
-#*##########################################   ──────────────────────────
-####################################********   Role......: Cloud / SRE / DevOps Engineer
-###**+++++=======++===+=====--==============   Study.....: MSc Cloud Computing, NCI Dublin
-=----::--::..:::::---------::.....:---------   Location..: Dublin, Ireland
-========-   ..::-:::----===-:    ::--:::::::   
-======-.      . .:.  ....::. .   :...:--::::   Cloud.....: AWS, Azure, Multi-Cloud
-=====-  .                           .::--:--   Orchestr..: Kubernetes (EKS/AKS), Docker
-++===:  .  .......                    .:----   IaC.......: Terraform, EventBridge, SQS
-==+=:  .....:....::-:.                .----:   Observab..: CloudWatch, Lambda automation
-::--.              .:..:.             ....::   Langs.....: Python, TypeScript, SQL, Bash
-::::             .:=+--==:      ....      .-   Certs.....: AZ-900, AWS Partner Technical
--:::          ::=+*##=-++-.:::...:::... ..:=   
--:::        :--=*+##*++*==------..........:-   Focus.....: Fault-tolerance, cost-aware
-----:     .:===+++##*##%*=--==-:.   ..  .---               inference, IaC, monitoring
-----:     ::::::. ..-*#*=::-=-::.       :---   Contact...: ronakrajput.vercel.app
-::--:    :-:.:::.   .+#=    ...::     :-----   
-:-==-:  -++=-::::..:=%%=  ......-.   ---::::   
---===. :+*#%%#*******%%#+-::::-+*:  :-::::--   
-=---=. :=+#%%@@%%%#*%@%##%####%%#=  =::-----   
--:.:=- :--=+****++*+*%%#%##%@@@%#- =+:------   
--:-:-+=-=---=**#=::::-:.=#*+*##*+.-+:::----=   
--:-::..-==--+*==--:::.:=***+=:-===*--==+++++   
---:::..:===-=+=-=--:-===-=++=-=+=+++==-+++++   
-:::-::. -==-=++====-=+++*#+=++====++--.::-==   
--=+*+=::-:--=+*********##*++=-:::-===+=+==+=   
-+==:.. .=-:::-+*####%%##*+=----====--======+   
-===:   .---::..:--------:::  ::=++=++====--=   
-=----.  .----::.......:::-.  .   -+*++++====   
--=-:-=-.  .::---:::::-----  .-:    .=++++===   
-=-----==:     ..:::::::---: -==-    -===+===   
-:----::-=-.        .::---=-.=----.:.-=:=+-=+   
-  :--::.:--:.       .-=++*---::::-::--::++--   
-```
+  ronak@github
+  ──────────────────────────
+   Role......: Cloud / SRE / DevOps Engineer
+  Study.....: MSc Cloud Computing, NCI Dublin
+   Location..: Dublin, Ireland
+   
+   Cloud.....: AWS, Azure, Multi-Cloud
+   Orchestr..: Kubernetes (EKS/AKS), Docker
+   IaC.......: Terraform, EventBridge, SQS
+  Observab..: CloudWatch, Lambda automation
+  Langs.....: Python, TypeScript, SQL, Bash
+  Certs.....: AZ-900, AWS Partner Technical
+   
+   Focus.....: Fault-tolerance, cost-aware
+               inference, IaC, monitoring
+   Contact...: ronakrajput.vercel.app
+
 
 ---
 
