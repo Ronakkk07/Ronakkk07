@@ -1,5 +1,5 @@
 <!-- ======================= HEADER ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:1a7fd4&height=200&section=header&text=Ronak%20Rajput&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%C2%B7%20SRE%20%C2%B7%20DevOps%20Engineer&descSize=20&descAlignY=60" alt="Ronak Rajput"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:1a7fd4&height=200&section=header&text=Ronak%20Rajput&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%C2%B7%20CloudSupport/TechnicalSupport%20%C2%B7%20SRE%20DevOps&descSize=20&descAlignY=60" alt="Ronak Rajput"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=1A7FD4&center=true&vCenter=true&width=650&lines=MSc+Cloud+Computing+%40+NCI+Dublin;Building+distributed+backends+%26+serverless+pipelines;CloudWatch+%7C+Kubernetes+%7C+Docker+%7C+Terraform;IEEE+Published+%C2%B7+190%2B+LeetCode+Solved" alt="Typing SVG"/>
