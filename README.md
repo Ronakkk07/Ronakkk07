@@ -1,5 +1,5 @@
 <!-- ======================= HEADER ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a2540,100:1a7fd4&amp;height=200&amp;section=header&amp;text=Ronak%20Rajput&amp;fontSize=56&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20%26%20AI-Native%20Engineering%20%C2%B7%20Cloud%20Support%20%26%20Reliability&amp;descSize=18&amp;descAlignY=60" alt="Ronak Rajput"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:1a7fd4&height=200&section=header&text=Ronak%20Rajput&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%C2%B7%20CloudSupport/TechnicalSupport%20%C2%B7%20SRE%20DevOps&descSize=20&descAlignY=60" alt="Ronak Rajput"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=1A7FD4&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=MSc+Cloud+Computing+%40+NCI+Dublin+%7C+2%3A1;Backend+%26+DevOps%3A+Python%2C+Django%2C+Serverless+AWS%2C+Kubernetes;Cloud+Support%3A+Linux%2C+Networking%2C+CloudWatch%2C+RCA;IEEE+Published+%C2%B7+190%2B+LeetCode+Solved" alt="Typing SVG"/>
